@@ -1,2 +1,2 @@
 # TriviaGame
-Trivia Game for Coding Bootcamp
+Test your knowledge of the Kansas City Royals with this Javascript based Trivia Game!
